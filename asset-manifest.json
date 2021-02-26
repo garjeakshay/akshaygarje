@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/akshaygarje/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/akshaygarje/static/js/main.b1ab32ce.chunk.js",
-    "main.js.map": "/akshaygarje/static/js/main.b1ab32ce.chunk.js.map",
-    "runtime-main.js": "/akshaygarje/static/js/runtime-main.6130196e.js",
-    "runtime-main.js.map": "/akshaygarje/static/js/runtime-main.6130196e.js.map",
-    "static/js/2.5419274d.chunk.js": "/akshaygarje/static/js/2.5419274d.chunk.js",
-    "static/js/2.5419274d.chunk.js.map": "/akshaygarje/static/js/2.5419274d.chunk.js.map",
-    "static/js/3.d1a17140.chunk.js": "/akshaygarje/static/js/3.d1a17140.chunk.js",
-    "static/js/3.d1a17140.chunk.js.map": "/akshaygarje/static/js/3.d1a17140.chunk.js.map",
+    "main.css": "/akshaygarje/static/css/main.89e5fcc2.chunk.css",
+    "main.js": "/akshaygarje/static/js/main.acc69490.chunk.js",
+    "main.js.map": "/akshaygarje/static/js/main.acc69490.chunk.js.map",
+    "runtime-main.js": "/akshaygarje/static/js/runtime-main.83619850.js",
+    "runtime-main.js.map": "/akshaygarje/static/js/runtime-main.83619850.js.map",
+    "static/js/2.9fccd25d.chunk.js": "/akshaygarje/static/js/2.9fccd25d.chunk.js",
+    "static/js/2.9fccd25d.chunk.js.map": "/akshaygarje/static/js/2.9fccd25d.chunk.js.map",
+    "static/js/3.9a1f5ceb.chunk.js": "/akshaygarje/static/js/3.9a1f5ceb.chunk.js",
+    "static/js/3.9a1f5ceb.chunk.js.map": "/akshaygarje/static/js/3.9a1f5ceb.chunk.js.map",
     "index.html": "/akshaygarje/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/akshaygarje/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.5419274d.chunk.js.LICENSE.txt": "/akshaygarje/static/js/2.5419274d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/akshaygarje/static/media/logo.6ce24c58.svg"
+    "static/css/main.89e5fcc2.chunk.css.map": "/akshaygarje/static/css/main.89e5fcc2.chunk.css.map",
+    "static/js/2.9fccd25d.chunk.js.LICENSE.txt": "/akshaygarje/static/js/2.9fccd25d.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/akshaygarje/static/media/clouds.9c9bd8d6.png",
+    "static/media/logo.6ce24c58.svg": "/akshaygarje/static/media/logo.6ce24c58.svg",
+    "static/media/plane.b33d65a9.gif": "/akshaygarje/static/media/plane.b33d65a9.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.6130196e.js",
-    "static/js/2.5419274d.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.b1ab32ce.chunk.js"
+    "static/js/runtime-main.83619850.js",
+    "static/js/2.9fccd25d.chunk.js",
+    "static/css/main.89e5fcc2.chunk.css",
+    "static/js/main.acc69490.chunk.js"
   ]
 }
